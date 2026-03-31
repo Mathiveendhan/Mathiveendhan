@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathiveendhan" alt="mathiveendhan" /></a> </p>
 
-- 🌱 I’m B.Tech graduate in **Artificial Intelligence and Data Science** and an aspiring Data analyst and Java Full stack developer 
+- 🌱 I’m a B.Tech graduate in **Artificial Intelligence and Data Science** and an aspiring Data analyst and Java Full stack developer 
 
 - 📫 How to reach me **Mathiveendhan003@gmail.com**
 
